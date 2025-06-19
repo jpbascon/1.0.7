@@ -184,6 +184,7 @@ main {
   .card-container {
     border-radius: unset;
     max-width: 390px;
+    min-width: 340px;
     padding: unset;
   }
 
